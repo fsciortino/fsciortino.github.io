@@ -1,0 +1,12 @@
+---
+title: "Bayesian Spectral Moment Estimation and Uncertainty Quantification"
+collection: publications
+permalink: /publication/sciortino_cao_2020
+date: 2020-10-22
+venue: 'IEEE Transactions on Plasma Science'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/8879689?casa_token=eyKTihmq6gQAAAAA:rtQU61ddgaxQUAlhDDcbf_PyPThcsvNtfv5CvQNCEuXacona_W9HmyJ1MgLrC7oeqrZFKSk'
+citation: 'F. Sciortino and N.M. Cao 2020 IEEE Trans. Plasma Science, 48, 1.'
+---
+We present a Bayesian spectral fitting method developed for spectroscopic data analysis, particularly (but not solely) in the context of fusion energy research. The presented techniques are particularly valuable to estimating moments and corresponding uncertainties whenever the spectra result from line-integrated measurements in nonuniform plasmas, for which the approximation of atomic line shapes being ideal Gaussians gives poor estimates. We decompose multiple, potentially overlapping spectral lines into a sum of Gauss-Hermite polynomials, whose properties allow efficient truncation and uncertainty quantification, often with only three free parameters per atomic emission line. Tests with both synthetic and experimental data demonstrate the effectiveness and robustness where more standard nonlinear fitting routines may experience difficulties. A parallelized version of our implementation is publicly released under an open source license.
+
+Recommended citation: F. Sciortino and N.M. Cao 2020 IEEE Trans. Plasma Science, 48, 1.
