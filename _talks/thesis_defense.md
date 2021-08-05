@@ -10,4 +10,4 @@ location: "Cambridge, MA, USA"
 
 The main body of my Ph.D. thesis defense slides.
 
-[Download slides here](http://fsciortino.github.io/files/sciortino_defense_4aug2021)
+[Download slides here](http://fsciortino.github.io/files/sciortino_defense_4aug2021.pdf)
