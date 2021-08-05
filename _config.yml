@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Francesco Sciortino Sidebar Name"
+  name             : "Francesco Sciortino"
   avatar           : "files/fs_profilepic.jpg"
   bio              : "PhD Candidate at MIT - plasma physics and fusion energy"
   location         : "Cambridge, MA, USA"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/fsciortino"
+  github           : "fsciortino"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/francesco-sciortino-aa340180/"
+  linkedin         : "https://www.linkedin.com/in/francesco-sciortino-aa340180"
   orcid            : "https://orcid.org/0000-0002-5159-1889"
   pinterest        :
   soundcloud       :
