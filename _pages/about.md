@@ -13,3 +13,6 @@ I am a graduate student at the MIT Plasma Science & Fusion Center, working on ma
 What is in this website
 =======================
 I am hoping to collect information about my research, academic path and outreach activity in this website. Please get in touch for any questions!
+
+
+<img src="https://github.com/fsciortino/Data-science-presentation/blob/master/Transfer%20learning/5197d216-7627-4c9a-9421-81a9e0392364-original.jpeg?raw=true">
