@@ -87,7 +87,7 @@ author:
   employer         : "MIT PSFC"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=GGQzj2wAAAAJ&hl=en"
-  email            : "sciortino-at-psfc.mit.edu"
+  email            : "sciortino@psfc.mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -209,15 +209,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -227,15 +218,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
