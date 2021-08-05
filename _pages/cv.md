@@ -16,16 +16,6 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 * Research Assistant- MIT Plasma Science & Fusion Center
   * Particle transport research at the Alcator C-Mod and DIII-D tokamaks.
 
