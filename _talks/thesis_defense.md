@@ -9,3 +9,5 @@ location: "Cambridge, MA, USA"
 ---
 
 The main body of my Ph.D. thesis defense slides.
+
+/talks/Sciortino - PhD defense - 4 Aug 2021 - main body.pdf
