@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Francesco Sciortino"
-  avatar           : "files/fs_profilepic.jpg"
+  avatar           : "fs_profilepic.jpg"
   bio              : "PhD Candidate at MIT - plasma physics and fusion energy"
   location         : "Cambridge, MA, USA"
   employer         : "MIT PSFC"
