@@ -1,0 +1,13 @@
+---
+title: "Inference of experimental radial impurity transport on Alcator C-Mod: Bayesian parameter estimation and model selection"
+collection: publications
+permalink: /publication/sciortino_nf_2020
+excerpt: 'In this paper, a Bayesian inference framework for particle transport coefficients in tokamak plasmas is presented, demonstrating parameter estimation and model selection on experimental data from an Alcator C-Mod I-mode discharge for the first time.'
+date: 2020-10-30
+venue: 'Nuclear Fusion'
+paperurl: 'https://iopscience.iop.org/article/10.1088/1741-4326/abae85/meta?casa_token=XgQKmQAlfdcAAAAA:PMJBPa144B_7S0PzKrGNRO3ygx37Rub2jNg21fMMepIMIY_EYhIOpRGLOEhk8K0fiUmuKHaM'
+citation: 'F. Sciortino et al 2020 Nucl. Fusion 60 126014.'
+---
+In this paper, we presented the first application of an HPC framework for Bayesian inference of particle transport coefficients based on Laser Blow-Off injections of Ca in the Alcator C-Mod tokamak 
+
+Recommended citation: F. Sciortino et al 2020 Nucl. Fusion 60 126014.
