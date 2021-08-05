@@ -7,7 +7,9 @@ date: 2020-10-30
 venue: 'Nuclear Fusion'
 citation: 'F. Sciortino et al 2020 Nucl. Fusion 60 126014.'
 ---
+
 We present a fully Bayesian approach for the inference of radial profiles of impurity transport coefficients and compare its results to neoclassical, gyrofluid and gyrokinetic modeling. Using nested sampling, the Bayesian impurity transport inference (BITE) framework can handle complex parameter spaces with multiple possible solutions, offering great advantages in interpretative power and reliability with respect to previously demonstrated methods. BITE employs a forward model based on the pySTRAHL package, built on the success of the well-known STRAHL code (Dux 2003 Fusion Sci Technol. 44 708–15), to simulate impurity transport in magnetically-confined plasmas. In this paper, we focus on calcium (Ca, Z = 20) laser blow-off injections into Alcator C-Mod plasmas. Multiple Ca atomic lines are diagnosed via high-resolution x-ray imaging crystal spectroscopy and vacuum ultra-violet measurements. We analyze a sawtoothing I-mode discharge for which neoclassical and turbulent (quasilinear and non-linear) predictions are also obtained. We find good agreement in diffusion across the entire radial extent, while turbulent convection and density profile peaking are estimated to be larger in experiment than suggested by theory. Efforts and challenges associated with the inference of experimental pedestal impurity transport are discussed.
+
 You can find the paper [here](https://iopscience.iop.org/article/10.1088/1741-4326/abae85/meta?casa_token=XgQKmQAlfdcAAAAA:PMJBPa144B_7S0PzKrGNRO3ygx37Rub2jNg21fMMepIMIY_EYhIOpRGLOEhk8K0fiUmuKHaM).
 
 Recommended citation: F. Sciortino et al 2020 Nucl. Fusion 60 126014.
