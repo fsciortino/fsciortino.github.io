@@ -34,6 +34,6 @@ Some useful links
 
 Here's a collection of [interesting resources/pages](http://fsciortino.github.io/pages/interesting_things.md).
 
-<img src="images/cmod_fig.png" width="800" />
+<img src="../images/cmod_fig.png" width="800" />
 
 Photo: interior of Alcator C-Mod. Credit: Bob Mumgaard.
