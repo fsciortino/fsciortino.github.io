@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student at the MIT Plasma Science & Fusion Center. During my PhD, I have been focusing on particle transport and spectroscopy in magnetic confinement fusion devices, particularly the Alcator C-Mod and DIII-D tokamaks in the USA. 
+I am a graduate student at the MIT Plasma Science & Fusion Center. During my PhD, I have been focusing on particle transport and spectroscopy in magnetic confinement fusion devices, particularly the Alcator C-Mod and DIII-D tokamaks in the USA. Bringing the power of the starts to Earth, as fusion research aims to do, is a unique multi-disciplinary challenge, with elements of plasma, atomic and engineering physics -- for short, "fusioneering".
+
 
 What is in this website
 =======================
