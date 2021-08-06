@@ -24,5 +24,5 @@ In the media
 
 ["Why organizing a scientific conference can produce huge benefits" - Nature](https://www.nature.com/articles/d41586-018-05714-9?utm_source=fbk_nnc&utm_medium=social&utm_campaign=naturenews&sf193884577=1)
 
-
 <img src="https://github.com/fsciortino/fsciortino.github.io/blob/master/images/cmod_fig.png">
+Photo: interior of Alcator C-Mod. Credit: Bob Mumgaard.
