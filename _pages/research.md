@@ -4,8 +4,6 @@ permalink: /research/
 author_profile: true
 ---
 
-{% include base_path %}
-
 My research during my graduate school years at MIT has been focused on particle transport in tokamak plasmas. 
 I have worked on the analysis of Alcator C-Mod and DIII-D experiments, with a focus on developing Bayesian inference frameworks to compare particle transport coefficients between theoretical calculations and experimental modeling.
 
