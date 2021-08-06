@@ -32,3 +32,6 @@ Some useful links
 
 * Website of the [MIT Plasma Science & Fusion Center](https://www.psfc.mit.edu/)
 * Website of [MIT](www.mit.edu)
+
+
+A collection of [interesting resources/pages](http://fsciortino.github.io/pages/interesting_things.md).
