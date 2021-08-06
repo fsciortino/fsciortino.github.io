@@ -36,6 +36,6 @@ Here's a collection of [interesting resources/pages](http://fsciortino.github.io
 
 
 
-<img src="https://github.com/fsciortino/fsciortino.github.io/blob/master/files/cmod_fig.png">
+<img src="https://github.com/fsciortino/fsciortino.github.io/blob/master/images/cmod_fig.png">
 
 Photo: interior of Alcator C-Mod. Credit: Bob Mumgaard.
