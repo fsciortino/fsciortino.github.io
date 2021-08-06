@@ -1,0 +1,14 @@
+---
+title: "Particle transport constraints via Bayesian spectral fitting of multiple atomic lines"
+collection: publications
+permalink: /publication/sciortino_rsi_2021
+excerpt: 'In this paper, methods to fit multiple spectral lines measured via high-resolution spectroscopy are discussed and their value for inferences of particle transport coefficients is illustrated via synthetic data. This was an invited paper following the High Temperature Plasma Diagnostics 2020 conference.'
+date: 2020-04-10
+venue: 'Review of Scientific Instruments'
+citation: 'F. Sciortino et al Review of Scientific Instruments 92, 053508 (2021).'
+---
+
+Optimized operation of fusion devices demands detailed understanding of plasma transport, a problem that must be addressed with advances in both measurement and data analysis techniques. In this work, we adopt Bayesian inference methods to determine experimental particle transport, leveraging opportunities from high-resolution He-like ion spectra in a tokamak plasma. The Bayesian spectral fitting code is used to analyze resonance (w), forbidden (z), intercombination (x, y), and satellite (k, j) lines of He-like Ca following laser blow-off injections on Alcator C-Mod. This offers powerful transport constraints since these lines depend differently on electron temperature and density, but also differ in their relation to Li-like, He-like, and H-like ion densities, often the dominant Ca charge states over most of the C-Mod plasma radius. Using synthetic diagnostics based on the AURORA package, we demonstrate improved effectiveness of impurity transport inferences when spectroscopic data from a progressively larger number of lines are included.
+You can find the paper [here](https://aip.scitation.org/doi/full/10.1063/5.0043765?casa_token=SaEITYqQCT0AAAAA%3AdympsqEVuipegpoUUUf4uaga6Pmuy1Mu7fX4oj6AZ_5-GMuDBRXvcRdrTOyCKsCo4OGvll978g).
+
+Recommended citation: F. Sciortino et al Review of Scientific Instruments 92, 053508 (2021); https://doi.org/10.1063/5.0043765
