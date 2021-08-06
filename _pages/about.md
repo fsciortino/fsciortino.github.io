@@ -23,7 +23,9 @@ In the media
 * ["Un dottorato al MIT per la fusion nucleare" - Micron](https://www.rivistamicron.it/approfondimenti/un-dottorato-al-mit-per-la-fusione-nucleare/)
 * ["Why organizing a scientific conference can produce huge benefits" - Nature](https://www.nature.com/articles/d41586-018-05714-9?utm_source=fbk_nnc&utm_medium=social&utm_campaign=naturenews&sf193884577=1)
 
+
 <img src="https://github.com/fsciortino/fsciortino.github.io/blob/master/images/cmod_fig.png">
+
 Photo: interior of Alcator C-Mod. Credit: Bob Mumgaard.
 
 
@@ -34,4 +36,4 @@ Some useful links
 * Website of [MIT](www.mit.edu)
 
 
-A collection of [interesting resources/pages](http://fsciortino.github.io/pages/interesting_things.md).
+Here's a collection of [interesting resources/pages](http://fsciortino.github.io/pages/interesting_things.md).
