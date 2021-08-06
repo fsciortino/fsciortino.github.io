@@ -19,6 +19,6 @@ Before coming to MIT, I spent some time doing research at
 * the TCV tokamak at Ecole Polytechnique Federale de Lausanne (EPFL)
 
 
-<img src="https://github.com/fsciortino/fsciortino.github.io/blob/master/images/xics_imode_inference_fit.jpg" width="800"/>
+<img src="https://github.com/fsciortino/fsciortino.github.io/blob/master/images/xics_imode_inference_fit.jpg" width="800" />
 
 Image: reconstruction of the calcium K-alpha spectrum measured by the X-ray Imaging Crystal Spectroscopy (XICS) diagnostic on Alcator C-Mod, using the inference framework that I developed during my PhD thesis for an I-mode discharge.
