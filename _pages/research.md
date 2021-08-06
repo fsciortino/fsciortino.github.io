@@ -7,3 +7,5 @@ Before coming to MIT, I spent some time doing research at
 * the Magnetic Reconnection eXperiment (MRX) at the Princeton Plasma Physics Laboratory
 * the Mega Ampere Generator for Plasma Implosion Experiments (MAGPIE) at Imperial College London
 * the TCV tokamak at Ecole Polytechnique Federale de Lausanne (EPFL)
+
+<img src="https://github.com/fsciortino/fsciortino.github.io/blob/master/images/inference_imode_xics_fit.jpg">
