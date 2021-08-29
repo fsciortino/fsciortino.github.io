@@ -25,15 +25,23 @@ In the media
 * ["Why organizing a scientific conference can produce huge benefits" - Nature](https://www.nature.com/articles/d41586-018-05714-9?utm_source=fbk_nnc&utm_medium=social&utm_campaign=naturenews&sf193884577=1)
 
 
+<img src="../images/cmod_fig.png" width="800" />
+
+Photo: interior of Alcator C-Mod. Credit: Bob Mumgaard.
+
 Some useful links
 =================
 
 * Website of the [MIT Plasma Science & Fusion Center](https://www.psfc.mit.edu/)
 * Website of [MIT](https://www.mit.edu/)
+* Website of the [Max Planck Institute for Plasma Physics, (MPI-IPP)](https://www.ipp.mpg.de/)
+* 
+Here is a collection of articles, poems and pages of various kinds that, for one reason or another, I have found interesting. 
 
+* P.W. Anderson, Science, 1972, Vol. 177, Issue 4047, pp. 393-396, DOI: 10.1126/science.177.4047.393
+  ["More is different"](https://cse-robotics.engr.tamu.edu/dshell/cs689/papers/anderson72more_is_different.pdf)
+  
+  This article masterfully exposes how I think about "intensive" vs. "extensive" research, the "reductionist" hypothesis, and why complex scientific disciplines like plasma physics are so interesting.
+  
+* Eugenio Montale, ["I limoni"](https://www.libriantichionline.com/divagazioni/eugenio_montale_limoni_1925)
 
-Here's a collection of [interesting resources/pages](http://fsciortino.github.io/pages/interesting_things.md).
-
-<img src="../images/cmod_fig.png" width="800" />
-
-Photo: interior of Alcator C-Mod. Credit: Bob Mumgaard.
