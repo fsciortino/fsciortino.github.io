@@ -56,6 +56,7 @@ Talks
   {% endfor %}</ul>
   
 Academic honors
+===============
 * Outreach Awards
   For outreach activity in 2017-19 at the MIT Plasma Science & Fusion Center.
 * Volunteer Award - Cambridge Community Learning Center
@@ -72,7 +73,7 @@ Academic honors
   Maximum funding awarded in 2014 for a project proposal at the MAGPIE facility.
 
 Teaching
-======
+========
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -82,7 +83,7 @@ Teaching
 * Teaching Assistant for MIT undergraduate 8.02 class on Electromagnetism with Technology-Enabled Active Learning (Fall 2016)
 
 Service and leadership
-======
+======================
 * Committee Member - MIT School of Science Graduate Student Council
   Advising Dean of the School of Science on diversity and inclusion initiatives (2020-)
 * Co-founder and organizer MIT Plasma Science & Fusion Center Journal Club
