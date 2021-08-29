@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* MSci in Physics, Imperial College London, 2016
 * Ph.D in Plasma Physics & Fusion Energy, Massachusetts Institute of Technology, 2021
+* MSci in Physics, Imperial College London, 2016
 
 Work experience
 ======
@@ -77,6 +77,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+* Supervision of MIT student A. Cavallaro in Undergraduate Research Opportunity Program (UROP) project on numerical methods for tokamak physics (Fall 2020)
+* Supervision of MIT undergraduate student K. Limanta in MIT Physics "Directed Reading Program" (Jan 2020)
+* Teaching Assistant for MIT undergraduate 8.02 class on Electromagnetism with Technology-Enabled Active Learning (Fall 2016)
+
 Service and leadership
 ======
 * Committee Member - MIT School of Science Graduate Student Council
