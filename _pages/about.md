@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "fusioneering"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent graduate of the MIT Plasma Science & Fusion Center, where I completed a PhD in plasma physics and fusion energy. During my time at MIT, I have been focusing on particle transport and spectroscopy in magnetic confinement fusion devices, particularly the Alcator C-Mod and DIII-D tokamaks in the USA. Bringing the power of the starts to Earth, as fusion research aims to do, is a unique multi-disciplinary challenge, with elements of plasma, atomic and engineering physics -- for short, "fusioneering".
+I am a postdoctoral fellow at the Max-Planck-Institut für Plasmaphysik in Garching, Germany, where I focus on plasma edge spectroscopy at the ASDEX-Upgrade tokamak. I am a recent graduate of the MIT Plasma Science & Fusion Center, where I completed my PhD in plasma physics and fusion energy. During my time at MIT, I have been focusing on particle transport and spectroscopy in magnetic confinement fusion devices, particularly the Alcator C-Mod and DIII-D tokamaks in the USA. Bringing the power of the stars to Earth, as fusion research aims to do, is a unique multi-disciplinary challenge, with elements of plasma, atomic and engineering physics. This mix is what fascinates me the most about fusion and the passionate people who try to bring on the energy revolution. 
 
 
 What is in this website
@@ -16,6 +16,11 @@ What is in this website
 This website collects information about my research, academic path and outreach activity. Please get in touch for any questions!
 
 
+Latest News
+===========
+* Sept 5, 2021: the SPARC toroidal field test magnet has [successfully reached 20 Tesla](https://news.mit.edu/2021/MIT-CFS-major-advance-toward-fusion-energy-0908). Interesting times ahead! 
+* Oct 12, 2021: a short paper presenting Aurora, a modern package for particle transport, neutrals and radiation in magnetically-confined plasmas (tokamaks and stellarators) is finally available on the PPCF journal website: [F Sciortino et al 2021 Plasma Phys. Control. Fusion 63 112001](https://iopscience.iop.org/article/10.1088/1361-6587/ac2890)
+ 
 
 In the media
 ============
@@ -32,10 +37,10 @@ Photo: interior of Alcator C-Mod. Credit: Bob Mumgaard.
 Some useful links
 =================
 
+* Website of the [Max Planck Institute for Plasma Physics, (MPI-IPP)](https://www.ipp.mpg.de/)
 * Website of the [MIT Plasma Science & Fusion Center](https://www.psfc.mit.edu/)
 * Website of [MIT](https://www.mit.edu/)
-* Website of the [Max Planck Institute for Plasma Physics, (MPI-IPP)](https://www.ipp.mpg.de/)
-* 
+
 Here is a collection of articles, poems and pages of various kinds that, for one reason or another, I have found interesting. 
 
 * P.W. Anderson, Science, 1972, Vol. 177, Issue 4047, pp. 393-396, DOI: 10.1126/science.177.4047.393
