@@ -1,0 +1,14 @@
+---
+title: "Modeling of particle transport, neutrals and radiation in magnetically-confined plasmas with Aurora"
+collection: publications
+permalink: /publication/sciortino_ppcf_2021
+excerpt: 'This paper presents a package, Aurora, that I worked on during my PhD to enable particle transport studies on Alcator C-Mod and DIII-D. Aurora offers a modern multi-language interface for simulations in the confined plasma and spectroscopic analysis. The objective of this package is to offer a simple yet effective tool for considerations on fuel dilution, radiation, experimental analysis and, quite generally, core-edge integration in fusion devices.'
+date: 2021-10-12
+venue: 'Plasma Physics & Controlled Fusion'
+citation: 'F Sciortino et al 2021 Plasma Phys. Control. Fusion 63 112001.'
+---
+
+We present Aurora, an open-source package for particle transport, neutrals and radiation modeling in magnetic confinement fusion plasmas. Aurora's modern multi-language interface enables simulations of 1.5D impurity transport within high-performance computing frameworks, particularly for the inference of particle transport coefficients. A user-friendly Python library allows simple interaction with atomic rates from the Atomic Data and Atomic Structure database as well as other sources. This enables a range of radiation predictions, both for power balance and spectroscopic analysis. We discuss here the superstaging approximation for complex ions, as a way to group charge states and reduce computational cost, demonstrating its wide applicability within the Aurora forward model and beyond. Aurora also facilitates neutral particle analysis, both from experimental spectroscopic data and other simulation codes. Leveraging Aurora's capabilities to interface SOLPS-ITER results, we demonstrate that charge exchange is unlikely to affect the total radiated power from the ITER core during high performance operation. Finally, we describe the ImpRad module in the one modeling framework for integrated task framework, developed to enable experimental analysis and transport inferences on multiple devices using Aurora.
+You can find the paper [here](https://iopscience.iop.org/article/10.1088/1361-6587/ac2890).
+
+Recommended citation: F Sciortino et al 2021 Plasma Phys. Control. Fusion 63 112001
