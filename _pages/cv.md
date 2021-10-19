@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * Postdoctoral Fellow - Max-Planck-Institut für Plasmaphysik (2021-present)
-  Research on edge spectroscopy and SOL/divertor transport at ASDEX-Upgrade.
+  * Research on edge spectroscopy and SOL/divertor transport at ASDEX-Upgrade.
   
 * Research Assistant- MIT Plasma Science & Fusion Center (2016-2021)
   * Particle transport research at the Alcator C-Mod and DIII-D tokamaks.
