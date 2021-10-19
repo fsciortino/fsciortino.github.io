@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow at the Max-Planck-Institut für Plasmaphysik in Garching, Germany, where I focus on plasma edge spectroscopy at the ASDEX-Upgrade tokamak. I am a recent graduate of the MIT Plasma Science & Fusion Center, where I completed my PhD in plasma physics and fusion energy. During my time at MIT, I have been focusing on particle transport and spectroscopy in magnetic confinement fusion devices, particularly the Alcator C-Mod and DIII-D tokamaks in the USA. Bringing the power of the stars to Earth, as fusion research aims to do, is a unique multi-disciplinary challenge, with elements of plasma, atomic and engineering physics. This mix is what fascinates me the most about fusion and the passionate people who try to bring on the energy revolution. 
+I am a postdoctoral fellow at the Max-Planck-Institut für Plasmaphysik in Garching, Germany, where I focus on plasma edge spectroscopy at the ASDEX-Upgrade tokamak. 
+
+I am a recent graduate of the MIT Plasma Science & Fusion Center, where I completed my PhD in plasma physics and fusion energy. During my PhD, I have focused on particle transport and spectroscopy in magnetic confinement fusion devices, particularly the Alcator C-Mod and DIII-D tokamaks in the USA. 
+
+Bringing the power of the stars to Earth, as fusion research aims to do, is a unique multi-disciplinary challenge, with elements of plasma, atomic and engineering physics. This mix is what fascinates me the most about fusion and the passionate people who try to bring on the energy revolution. 
 
 
 What is in this website
