@@ -1,0 +1,15 @@
+---
+title: "The very high n Rydberg series of Ar16+ in Alcator C-Mod tokamak plasmas"
+collection: publications
+permalink: /publication/rice_jphysb_2021
+excerpt: 'This paper presents research on Alcator C-Mod on the very high-n Rydberg series of Ar16+. It offers insights into both atomic physics and plasma physics, since the high-n lines are only populated via charge exchange, which relates to the presence of neutral deuterium particles. Asymmetries and modeling are discussed in this work led by John Rice.'
+date: 2021-10-12
+venue: 'Journal of Physics B: Atomic, Molecular and Optical Physics'
+citation: ' J E Rice et al 2021 J. Phys. B: At. Mol. Opt. Phys. 54 175701'
+---
+
+X-ray transitions of the very high-n Rydberg series in Ar16+ have been observed from Alcator C-Mod tokamak plasmas. Individual emission lines up to 1s16p-1s2 have been resolved and the central chord line brightnesses with principal quantum number n between 7 and 16 are generally found to decay as 1/n^α, with α slightly larger than 3. In the plasma periphery, emission from 1s9p-1s2 and 1s10p-1s2 are found to be significantly enhanced relative to this decrease, indicative of selected population of these levels through charge exchange between background neutral deuterium in the ground state and Ar17+. An unresolved feature between the wavelengths of 1s27p-1s2 and 1s30p-1s2 is also present, which arises through charge exchange with neutral deuterium in the n* = 3 excited state. The brightnesses of transitions populated by charge exchange are spatially up/down asymmetric, with an excess on the side of the magnetic surface X-point. The relative brightness of the unresolved very high-n feature compared to 1s7p-1s2 is found to increase with electron temperature and decrease with electron density. Simulations of line emission just on the long wavelength side of the Ar16+ ionization limit indicate that the principal quantum number decay exponent is closer to α = 4 at very high n. The brightness dependence on n below 16 is in excellent agreement with calculations from the flexible atomic code package.
+
+You can find the paper [here](https://iopscience.iop.org/article/10.1088/1361-6455/ac2722).
+
+Recommended citation:  J E Rice et al 2021 J. Phys. B: At. Mol. Opt. Phys. 54 175701
