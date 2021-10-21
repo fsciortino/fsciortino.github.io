@@ -55,3 +55,4 @@ Here is a collection of articles, poems and pages of various kinds that, for one
   
 * Eugenio Montale, ["I limoni"](https://www.libriantichionline.com/divagazioni/eugenio_montale_limoni_1925)
 
+* Interesting visualization of research impact of institutions around the world: [Excellence Maps](https://www.excellencemapping.net/#/explore?id=24696&lng=-122&lat=38&z=7&f=0&c=A_BASE&a=All&s=0&m=Highly+cited+papers)
