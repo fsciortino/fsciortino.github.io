@@ -1,0 +1,15 @@
+---
+title: "Experimental verification of the role of electron pressure in fast magnetic reconnection with a guide field"
+collection: publications
+permalink: /publication/fox_prl_2017
+excerpt: 'This paper reports on the experimental measurement of quadrupolar pressure structures near the x-point of a magnetic reconnection region. Experiments were performed at the MRX facility at the Princeton Plasma Physics Laboratory during my internship under the supervision of Dr. Will Fox and Prof. Hantao Ji.'
+date: 2017-03-21
+venue: 'Physical Review Letters'
+citation: ' J E Rice et al 2021 J. Phys. B: At. Mol. Opt. Phys. 54 175701'
+---
+
+We report detailed laboratory observations of the structure of a reconnection current sheet in a two-fluid plasma regime with a guide magnetic field. We observe and quantitatively analyze the quadrupolar electron pressure variation in the ion-diffusion region, as originally predicted by extended magnetohydrodynamics simulations. The projection of the electron pressure gradient parallel to the magnetic field contributes significantly to balancing the parallel electric field, and the resulting cross-field electron jets in the reconnection layer are diamagnetic in origin. These results demonstrate how parallel and perpendicular force balance are coupled in guide field reconnection and confirm basic theoretical models of the importance of electron pressure gradients for obtaining fast magnetic reconnection.
+
+You can find the paper [here](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.125002).
+
+Recommended citation:  W. Fox, F. Sciortino et al 2017 Phys. Rev. Lett. 118, 125002
