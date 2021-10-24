@@ -22,7 +22,7 @@ This website collects information about my research, academic path and outreach 
 
 Latest News
 ===========
-* Oct 14, 2021: the paper "The Very High-n Rydberg Series of Ar16+ in Alcator C-Mod Tokamak Plasmas" has been published in the Journal of Physics B: Atomic, Molecular and Optical Physics (find it [here](https://iopscience.iop.org/article/10.1088/1361-6455/ac2722)). I've really enjoyed contributing to this work led by John Rice at MIT! 
+* Oct 14, 2021: the paper "The Very High-n Rydberg Series of Ar16+ in Alcator C-Mod Tokamak Plasmas" has been published in the Journal of Physics B: Atomic, Molecular and Optical Physics (find it [here](https://iopscience.iop.org/article/10.1088/1361-6455/ac2722)). I really enjoyed contributing to this work led by John Rice at MIT! 
 * Oct 12, 2021: a short paper presenting Aurora, a modern package for particle transport, neutrals and radiation in magnetically-confined plasmas (tokamaks and stellarators) is finally available on the PPCF journal website: [F Sciortino et al 2021 Plasma Phys. Control. Fusion 63 112001](https://iopscience.iop.org/article/10.1088/1361-6587/ac2890)
 * Sept 5, 2021: the SPARC toroidal field test magnet has [successfully reached 20 Tesla](https://news.mit.edu/2021/MIT-CFS-major-advance-toward-fusion-energy-0908). Interesting times ahead! 
 
@@ -56,3 +56,5 @@ Here is a collection of articles, poems and pages of various kinds that, for one
 * Eugenio Montale, ["I limoni"](https://www.libriantichionline.com/divagazioni/eugenio_montale_limoni_1925)
 
 * Interesting visualization of research impact of institutions around the world: [Excellence Maps](https://www.excellencemapping.net/#/explore?id=24696&lng=-122&lat=38&z=7&f=0&c=A_BASE&a=All&s=0&m=Highly+cited+papers)
+
+* Simply wonderful: "We consider all the 175 Roman emperors and propose a new power-law model with change points to predict the time-to-violent-death of the Roman emperors." [Ramos et al. 2021 - Power laws in the Roman Empire: a survival analysis, R. Soc. open sci.8:210850.210850](https://royalsocietypublishing.org/doi/10.1098/rsos.210850) (thanks to JER for pointing this out)
