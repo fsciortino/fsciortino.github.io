@@ -1,0 +1,15 @@
+---
+title: "Experimental inference of neutral and impurity transport in Alcator C-Mod using high-resolution X-ray and Ultra-Violet spectra"
+collection: publications
+permalink: /publication/sciortino_nf_2021
+excerpt: 'This paper discusses comparisons of neutral density measurements (from Lyman-alpha) with SOLPS-ITER, and highlights the importance of charge exchange reactions in the Bayesian inference of pedestal particle transport coefficients, here demonstrated for C-Mod L-, EDA H- and I-mode discharges. Forward modeling of high-resolution x-ray and ultra-violet spectra has allowed comparison to theoretical models of core neoclassical and turbulent transport.'
+date: 2021-10-21
+venue: 'Nuclear Fusion'
+citation: 'F. Sciortino et al 2021 Nucl. Fusion.'
+---
+
+We present experimental inferences of cross-field impurity transport coefficients for Alcator C-Mod plasmas without edge-localized modes, leveraging a novel forward model for the entire Ca K-alpha spectrum, including satellite lines within the spectral range, to compare to high-resolution X-ray Imaging Crystal Spectroscopy (XICS). These measurements are complemented by Extreme Ultra-Violet (EUV) spectroscopy that constrains transport closer to the edge. Using new atomic data sets for both XICS and EUV analysis has enabled consideration of line ratios across both spectral ranges and has increased the accuracy of inferred transport coefficients. Inclusion of charge exchange between edge thermal neutrals and impurities is shown to be extremely important in C-Mod pedestals. Atomic D neutral densities from experimental D Ly-alpha measurements at the midplane are compared to SOLPS-ITER simulations, finding good agreement. Bayesian inferences of impurity transport coefficients are presented for L-, EDA H-, and I-mode discharges, making use of the Aurora package for forward modeling and combining our spectroscopic constraints. Experimentally inferred diffusion profiles are found to match turbulent transport models at midradius within uncertainties, using both quasilinear gyro-fluid TGLF SAT-1 and nonlinear ion-scale gyrokinetic CGYRO simulations. Significant discrepancies in convection are observed in some cases, suggesting difficulties in predictions of flat or hollow impurity profiles.
+
+You can find the paper [here](https://iopscience.iop.org/article/10.1088/1741-4326/ac32f2/pdf).
+
+Recommended citation: F. Sciortino et al 2021 Nucl. Fusion.
