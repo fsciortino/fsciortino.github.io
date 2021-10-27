@@ -10,7 +10,7 @@ redirect_from:
 
 I am a postdoctoral fellow at the Max-Planck-Institut für Plasmaphysik in Garching, Germany, where I focus on plasma edge spectroscopy at the ASDEX-Upgrade tokamak. 
 
-I am a recent graduate of the MIT Plasma Science & Fusion Center, where I completed my PhD in plasma physics and fusion energy. During my PhD, I have focused on particle transport and spectroscopy in magnetic confinement fusion devices, particularly the Alcator C-Mod and DIII-D tokamaks in the USA. 
+I am a graduate of the MIT Plasma Science & Fusion Center, where I did my PhD research on particle transport and spectroscopy in magnetic confinement fusion devices, particularly the Alcator C-Mod and DIII-D tokamaks in the USA. 
 
 Bringing the power of the stars to Earth, as fusion research aims to do, is a unique multi-disciplinary challenge, with elements of plasma, atomic and engineering physics. This mix is what fascinates me the most about fusion and the passionate people who try to bring on the energy revolution. 
 
@@ -22,7 +22,7 @@ This website collects information about my research, academic path and outreach 
 
 Latest News
 ===========
-* Oct 21, 2021: my latest C-Mod work on neutrals and impurity transport is now published in Nuclear Fusion (see [here](https://iopscience.iop.org/article/10.1088/1741-4326/ac32f2/pdf)). This paper discusses comparisons of neutral density measurements (from Lyman-alpha) with SOLPS-ITER, and highlights the importance of charge exchange reactions in the Bayesian inference of pedestal particle transport coefficients, here demonstrated for C-Mod L-, EDA H- and I-mode discharges. Forward modeling of high-resolution x-ray and ultra-violet spectra has allowed comparison to theoretical models of core neoclassical and turbulent transport.
+* Oct 21, 2021: my latest C-Mod work on neutrals and impurity transport is now published in Nuclear Fusion (see [here](https://iopscience.iop.org/article/10.1088/1741-4326/ac32f2/pdf)). Keywords: Bayesian inference, impurity transport, neutrals, x-ray and ultra-violet spectroscopy. Studies of C-Mod L-, EDA H- and I-mode discharges.
 * Oct 14, 2021: the paper "The Very High-n Rydberg Series of Ar16+ in Alcator C-Mod Tokamak Plasmas" has been published in the Journal of Physics B: Atomic, Molecular and Optical Physics (find it [here](https://iopscience.iop.org/article/10.1088/1361-6455/ac2722)). I really enjoyed contributing to this work led by John Rice at MIT! 
 * Oct 12, 2021: a short paper presenting Aurora, a modern package for particle transport, neutrals and radiation in magnetically-confined plasmas (tokamaks and stellarators) is finally available on the PPCF journal website: [F Sciortino et al 2021 Plasma Phys. Control. Fusion 63 112001](https://iopscience.iop.org/article/10.1088/1361-6587/ac2890)
 * Sept 5, 2021: the SPARC toroidal field test magnet has [successfully reached 20 Tesla](https://news.mit.edu/2021/MIT-CFS-major-advance-toward-fusion-energy-0908). Interesting times ahead! 
