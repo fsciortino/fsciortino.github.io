@@ -9,8 +9,8 @@ redirect_from:
 
 If you are interested in learning more about my research, or fusion energy more generally, please do get in touch! I am happy to answer questions, both from students and from educators. 
 
-This page is under development. 
+This page is under development. Faces are intentionally obscured in photographs. 
 
-<img src="../images/xics_imode_inference_fit.jpg" width="800" />
+<img src="../images/fs_outreach_cmod_tour - public.jpg" width="800" />
 
-Image: reconstruction of the calcium K-alpha spectrum measured by the X-ray Imaging Crystal Spectroscopy (XICS) diagnostic on Alcator C-Mod, using the inference framework that I developed during my PhD thesis, here applied for an I-mode discharge.
+Image: giving a tour of Alcator C-Mod during my PhD at MIT.
