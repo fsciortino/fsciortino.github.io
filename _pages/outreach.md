@@ -9,8 +9,20 @@ redirect_from:
 
 If you are interested in learning more about my research, or fusion energy more generally, please do get in touch! I am happy to answer questions, both from students and from educators. 
 
-This page is under development. Faces are intentionally obscured in photographs. 
+A few pictures of past outreach activities are below. Faces are intentionally obscured in photographs. 
 
 <img src="../images/fs_outreach_cmod_tour - public.jpg" width="800" />
 
 Image: giving a tour of Alcator C-Mod during my PhD at MIT.
+
+<img src="../images/fs_outreach_aps_dpp_portland - public.jpg" width="800" />
+
+Image: outreach activity with local schools in Portland, Oregon (USA), at the APS-DPP conference in 2019.
+
+<img src="../images/fs_outreach_mit_energy_night - public.jpg" width="800" />
+
+Image: explaining the principles of plasma creation and confinement in a simple linear device at the MIT Energy Night in 2018.
+
+<img src="../images/Ruffini_talk_122118.jpg" width="800" />
+
+Image: talk to students of the Ruffini Scientific High School, where I once studied myself. Not everyone gets to talk about fusion in an old church with frescos...
