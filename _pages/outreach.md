@@ -7,7 +7,14 @@ redirect_from:
   - /outreach
 ---
 
-If you are interested in learning more about my research, or fusion energy more generally, please do get in touch! I am happy to answer questions, both from students and educators.
+If you are interested in learning more about my research, or fusion energy more generally, please do get in touch! I am happy to answer questions, both from students and educators. I can also (try to) provide cool pictures, if that helps with scientific dissemination.
+
+-----------------------------
+
+If you also are passionate about outreach and would like some material, e.g. to give talks to schools, please feel free to send me an email and I'll be happy to share slides/pictures that I've collected over the years!
+
+-----------------------------
+
 
 A few pictures of past outreach activities are below. Faces (except my own) are intentionally obscured in photographs. 
 
