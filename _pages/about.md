@@ -14,6 +14,9 @@ I am a graduate of the MIT Plasma Science & Fusion Center, where I did my PhD re
 
 Bringing the power of the stars to Earth, as fusion research aims to do, is a unique multi-disciplinary challenge, with elements of plasma, atomic and engineering physics. This mix is what fascinates me the most about fusion and the passionate people who try to bring on the energy revolution. 
 
+<img src="../images/cmod_fig.png" width="800" />
+
+Photo: interior of Alcator C-Mod. Credit: Bob Mumgaard.
 
 What is in this website
 =======================
@@ -36,9 +39,6 @@ In the media
 * ["Why organizing a scientific conference can produce huge benefits" - Nature](https://www.nature.com/articles/d41586-018-05714-9?utm_source=fbk_nnc&utm_medium=social&utm_campaign=naturenews&sf193884577=1)
 
 
-<img src="../images/cmod_fig.png" width="800" />
-
-Photo: interior of Alcator C-Mod. Credit: Bob Mumgaard.
 
 Some useful links
 =================
