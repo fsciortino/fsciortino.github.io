@@ -10,7 +10,7 @@ redirect_from:
 
 My graduate school research has focused on particle transport in tokamak plasmas. I have worked on the analysis of Alcator C-Mod and DIII-D experiments, developing Bayesian inference frameworks to compare particle transport coefficients between theoretical calculations and experimental modeling. You can [download](../files/sciortino_MIT_PhD_thesis.7z) my PhD thesis here. 
 
-An outcome of my graduate research has been the public release of the Aurora package for particle transport and radiation modeling for fusion plasmas, which has [its own website](https://aurora-fusion.readthedocs.io/en/latest/). 
+An outcome of my graduate research has been the public release of the Aurora package for particle transport and radiation modeling for fusion plasmas. See the [Aurora documentation](https://aurora-fusion.readthedocs.io/en/latest/) for details. 
 
 Before coming to MIT, I spent some time doing research at
 * the Magnetic Reconnection eXperiment (MRX) at the Princeton Plasma Physics Laboratory
