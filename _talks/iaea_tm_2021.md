@@ -10,4 +10,4 @@ location: "online"
 
 Slides from my invited talk at the 4th IAEA Technical Meeting on Fusion Data Processing, Validation and Analysis that took place remotely between November 30 and December 3, 2021.
 
-You can download the slides [here](https://github.com/fsciortino/fsciortino.github.io/blob/master/files/Sciortino%20-%20IAEATM21.pdf)
+You can download the slides [here](http://fsciortino.github.io/files/Sciortino%20-%20IAEATM21.pdf)
