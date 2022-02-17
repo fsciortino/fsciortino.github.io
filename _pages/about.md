@@ -56,6 +56,8 @@ Here is a collection of articles, poems and pages of various kinds that, for one
   
 * Eugenio Montale, ["I limoni"](https://www.libriantichionline.com/divagazioni/eugenio_montale_limoni_1925)
 
+* Byers, J. ["The physics of data"](https://rdcu.be/cHcKJ). Nature Phys 13, 718–719 (2017). "Physicists are accustomed to dealing with large datasets, yet they are fortunate in that the quality of their experimental data is very good. The onset of big data has led to an explosion of datasets with a far more complex structure — a development that requires new tools and a different mindset."
+
 * Interesting visualization of research impact of institutions around the world: [Excellence Maps](https://www.excellencemapping.net/#/explore?id=24696&lng=-122&lat=38&z=7&f=0&c=A_BASE&a=All&s=0&m=Highly+cited+papers)
 
 * Simply wonderful: "We consider all the 175 Roman emperors and propose a new power-law model with change points to predict the time-to-violent-death of the Roman emperors." [Ramos et al. 2021 - Power laws in the Roman Empire: a survival analysis, R. Soc. open sci.8:210850.210850](https://royalsocietypublishing.org/doi/10.1098/rsos.210850) (thanks to JER for pointing this out)
