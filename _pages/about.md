@@ -25,16 +25,16 @@ This website collects information about my research, academic path and outreach 
 
 Latest News
 ===========
-* March 3, 2022: ["Star power"](https://www.mghpcc.org/star-power/), a short article by H. Hill on my PhD work, has been published on the MGHPCC computing cluster blog.
 * Oct 21, 2021: my latest C-Mod work on neutrals and impurity transport is now published in Nuclear Fusion (see [here](https://iopscience.iop.org/article/10.1088/1741-4326/ac32f2/pdf)). Keywords: Bayesian inference, impurity transport, neutrals, x-ray and ultra-violet spectroscopy. Studies of C-Mod L-, EDA H- and I-mode discharges.
 * Oct 14, 2021: the paper "The Very High-n Rydberg Series of Ar16+ in Alcator C-Mod Tokamak Plasmas" has been published in the Journal of Physics B: Atomic, Molecular and Optical Physics (find it [here](https://iopscience.iop.org/article/10.1088/1361-6455/ac2722)). I really enjoyed contributing to this work led by John Rice at MIT! 
 * Oct 12, 2021: a short paper presenting Aurora, a modern package for particle transport, neutrals and radiation in magnetically-confined plasmas (tokamaks and stellarators) is finally available on the PPCF journal website: [F Sciortino et al 2021 Plasma Phys. Control. Fusion 63 112001](https://iopscience.iop.org/article/10.1088/1361-6587/ac2890)
-* 
+
 
 In the media
 ============
-* ["Three Questions: Francesco Sciortino on his HTPD invited talk" - MIT PSFC interview](https://www.psfc.mit.edu/news/2020/three-questions-francesco-sciortino-on-his-htpd-invited-talk)
-* ["Organizing the scientific life: PhD candidate works behind the scenes to create learning opportunities for peers and the general public" - MIT PSFC interview](https://www.psfc.mit.edu/news/2018/francesco-sciortino-organizing-the-scientific-life)
+* March 3, 2022, ["Star power"](https://www.mghpcc.org/star-power/), a short article by H. Hill on my PhD work, has been published on the MGHPCC computing cluster blog.
+* Decemeber 18, 2020, ["Three Questions: Francesco Sciortino on his HTPD invited talk" - MIT PSFC interview](https://www.psfc.mit.edu/news/2020/three-questions-francesco-sciortino-on-his-htpd-invited-talk)
+* December 14, 2018, ["Organizing the scientific life: PhD candidate works behind the scenes to create learning opportunities for peers and the general public" - MIT PSFC interview](https://www.psfc.mit.edu/news/2018/francesco-sciortino-organizing-the-scientific-life)
 * ["Un dottorato al MIT per la fusion nucleare" - Micron](https://www.rivistamicron.it/approfondimenti/un-dottorato-al-mit-per-la-fusione-nucleare/)
 * ["Why organizing a scientific conference can produce huge benefits" - Nature](https://www.nature.com/articles/d41586-018-05714-9?utm_source=fbk_nnc&utm_medium=social&utm_campaign=naturenews&sf193884577=1)
 
