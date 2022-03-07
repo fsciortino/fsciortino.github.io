@@ -25,11 +25,11 @@ This website collects information about my research, academic path and outreach 
 
 Latest News
 ===========
+* March 3, 2022: ["Star power"](https://www.mghpcc.org/star-power/), a short article by H. Hill on my PhD work, has been published on the MGHPCC computing cluster blog.
 * Oct 21, 2021: my latest C-Mod work on neutrals and impurity transport is now published in Nuclear Fusion (see [here](https://iopscience.iop.org/article/10.1088/1741-4326/ac32f2/pdf)). Keywords: Bayesian inference, impurity transport, neutrals, x-ray and ultra-violet spectroscopy. Studies of C-Mod L-, EDA H- and I-mode discharges.
 * Oct 14, 2021: the paper "The Very High-n Rydberg Series of Ar16+ in Alcator C-Mod Tokamak Plasmas" has been published in the Journal of Physics B: Atomic, Molecular and Optical Physics (find it [here](https://iopscience.iop.org/article/10.1088/1361-6455/ac2722)). I really enjoyed contributing to this work led by John Rice at MIT! 
 * Oct 12, 2021: a short paper presenting Aurora, a modern package for particle transport, neutrals and radiation in magnetically-confined plasmas (tokamaks and stellarators) is finally available on the PPCF journal website: [F Sciortino et al 2021 Plasma Phys. Control. Fusion 63 112001](https://iopscience.iop.org/article/10.1088/1361-6587/ac2890)
-* Sept 5, 2021: the SPARC toroidal field test magnet has [successfully reached 20 Tesla](https://news.mit.edu/2021/MIT-CFS-major-advance-toward-fusion-energy-0908). Interesting times ahead! 
-
+* 
 
 In the media
 ============
