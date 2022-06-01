@@ -12,6 +12,8 @@ My graduate school research has focused on particle transport in tokamak plasmas
 
 An outcome of my graduate research has been the public release of the Aurora package for particle transport and radiation modeling for fusion plasmas. See the [Aurora documentation](https://aurora-fusion.readthedocs.io/en/latest/) for details. 
 
+I am currently working on reduced models to aid in the interpretation of spectroscopic signals from the edge of tokamaks, particularly ASDEX-Upgrade at the Max Planck Institute for Plasma Physics in Garching, Germany.
+
 Before coming to MIT, I spent some time doing research at
 * the Magnetic Reconnection eXperiment (MRX) at the Princeton Plasma Physics Laboratory
 * the Mega Ampere Generator for Plasma Implosion Experiments (MAGPIE) at Imperial College London
