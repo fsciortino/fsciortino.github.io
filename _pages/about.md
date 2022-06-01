@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the Max-Planck-Institut für Plasmaphysik in Garching, Germany, where I focus on plasma edge spectroscopy at the ASDEX-Upgrade tokamak. 
+I am a postdoctoral researcher at the Max-Planck-Institut für Plasmaphysik in Garching, Germany, where I focus on plasma spectroscopy and interpretation of divertor measurements at the ASDEX-Upgrade tokamak. 
 
 I am a graduate of the MIT Plasma Science & Fusion Center, where I did my PhD research on particle transport and spectroscopy in magnetic confinement fusion devices, particularly the Alcator C-Mod and DIII-D tokamaks in the USA. 
 
