@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-My graduate school research has focused on particle transport in tokamak plasmas. I have worked on the analysis of Alcator C-Mod and DIII-D experiments, developing Bayesian inference frameworks to compare particle transport coefficients between theoretical calculations and experimental modeling. You can download my PhD thesis [here](../files/sciortino_MIT_PhD_thesis.7z). 
+My graduate school research has focused on particle transport in tokamak plasmas. I have worked on the analysis of Alcator C-Mod and DIII-D experiments, developing Bayesian inference frameworks to compare particle transport coefficients between theoretical calculations and experimental modeling. You can download my PhD thesis [here](https://dspace.mit.edu/handle/1721.1/142810). 
 
 An outcome of my graduate research has been the public release of the Aurora package for particle transport and radiation modeling for fusion plasmas. See the [Aurora documentation](https://aurora-fusion.readthedocs.io/en/latest/) for details. 
 
