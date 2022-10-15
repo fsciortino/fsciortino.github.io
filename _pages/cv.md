@@ -16,6 +16,9 @@ Education
 
 Work experience
 ======
+* Scientific Coordinator - EuroFusion Consortium
+  * Co-leader of the EuroFusion RT07 task force on experimental negative triangularity tokamak research.
+
 * Postdoctoral Fellow - Max-Planck-Institut für Plasmaphysik (2021-present)
   * Research on edge spectroscopy and SOL/divertor transport at ASDEX-Upgrade.
   
